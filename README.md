@@ -1,5 +1,5 @@
 # hello-world
-Learning tGit
+Learning Git
 HI,
 My name is kumar Shanu Anand.
 I work in Amdocs. It has been two years working in Amdocs. It is nice working in Amdocs.
